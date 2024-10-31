@@ -1,11 +1,8 @@
 # Desafio-03-bootcamp-73591-Restaurantes
 ```sh
 Nombre: Cristian Gobbesso
-Link Github Repo: 
-Link: Netlify: 
+Link Github Repo: https://github.com/CristianGobbesso/Desafio-03-bootcamp-73591-Restaurantes.git
+Link: Netlify: https://desafio-03-bootcamp-73591-restaurante.netlify.app
 ```
 
-## Aclaraciones
-```sh
- A las imagenes les deje el public/ porque sino NETLIFY no me lee las imagenes.
- ```
+
