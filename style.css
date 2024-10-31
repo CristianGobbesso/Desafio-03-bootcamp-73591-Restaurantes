@@ -1,21 +1,20 @@
-
 body {
-  background-color: #2c948c ;
+  background-color: #2c948c;
   width: auto;
 }
 
 .franklin-gothic-medium {
-  font-family: 'Franklin Gothic Medium','Arial Narrow',  Arial, sans-serif ;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .titulo-centrado {
   text-align: center;
 }
 .color-amarillo {
-  color: #eee641 ;
+  color: #eee641;
 }
 .tamaño-fuente {
-  font-size: 40px ;
+  font-size: 40px;
 }
 
 .contenedor {
@@ -27,6 +26,4 @@ body {
 .img-1 {
   margin: 5px;
   border: 10px solid white;
-
 }
-
